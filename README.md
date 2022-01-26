@@ -1,1 +1,2 @@
 # pirmais
+mans pirmais repozitorijs
